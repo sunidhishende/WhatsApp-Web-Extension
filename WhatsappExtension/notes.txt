@@ -1,0 +1,6 @@
+Extension files:
+manifest.json - metadata, resources, permissions, identification of files running in background
+service worker - handles and listens for browser events
+content scripts - execute js in context of a webpage
+popup and other pages - include various HTML files, such as popup, an options page, and other HTML pages
+
